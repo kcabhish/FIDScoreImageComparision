@@ -1,0 +1,11 @@
+[project]
+name = "fidcomaprision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "scikit-image>=0.26.0",
+    "tensorflow>=2.20.0",
+    "tensorflow-gan>=2.1.0",
+]
